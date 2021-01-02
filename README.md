@@ -23,6 +23,9 @@ The data is divided by device.
     - Prediction:
 
 ### Final result comparing radiation vs prediction
+The following graphs are calculated using the equation:
+![](figures/ratio.svg)
+
 
 - Kepler - Tesla K20
 ![](figures/prediction_kepler.svg)
