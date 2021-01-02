@@ -1,13 +1,12 @@
 # Unveiling GPU Vulnerabilities: Comparing and Combining Beam, Fault Simulation, and Profiling
 
 ## About the data
-This repository contains almost all data presented in the paper. 
-In the following section there is a description for each Jupyter
-noteboot with the data.
-Radiation data is normalized to protect NVIDIA sensitive data. 
-So, all data relative to Beam experiments cannot be revelead and 
-are normalized by the smallest value for each device 
-(Kepler and Volta).
+This repository contains almost all the data presented in the paper. 
+In the following section, there is a link to each Jupyter
+notebook with the data.
+Beam experiments data are normalized to protect NVIDIA 
+sensitive information. The smallest value normalizes beam
+data for each device (Kepler and Volta).
 
 ## Data used in the paper
 
