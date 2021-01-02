@@ -1,6 +1,38 @@
 # Unveiling GPU Vulnerabilities: Comparing and Combining Beam, Fault Simulation, and Profiling
 
-## 1. Abstract
+## About the data
+This repository contains almost all data presented in the paper. 
+In the following section there is a description for each Jupyter
+noteboot with the data.
+Radiation data is normalized to protect NVIDIA sensitive data. 
+So, all data relative to Beam experiments cannot be revelead and 
+are normalized by the smallest value for each device 
+(Kepler and Volta).
+
+## Data used in the paper
+
+The data is divided by device.
+1. Kepler - Tesla K20
+    - Profiler data:
+    - Benchmark fault injection:
+    - Profiling:
+    - Prediction:
+2. Volta - Tesla V100
+    - Profiler data:
+    - Benchmark fault injection:
+    - Profiling:
+    - Prediction:
+
+### Final result comparing radiation vs prediction
+
+- Kepler - Tesla K20
+![](figures/prediction_kepler.pdf)
+
+- Volta - Tesla V100
+![](figures/prediction_volta.pdf)
+
+
+## Abstract
 Graphics Processing Units (GPUs) have moved from
 being dedicated devices for multimedia and gaming applications
 to general-purpose accelerators employed in High-Performance
@@ -19,7 +51,7 @@ GPU reliability evaluation: whether fault simulation provides
 representative results and can be used to predict the FIT rates
 of codes running on GPUs. We show that, in most cases,
 fault simulation FIT prediction for SDCs is sufficiently close
-(differences lower than 5×) to the experimentally measured FIT
+(differences lower than 5x) to the experimentally measured FIT
 rates. In our study we also analyze the reliability of the main
 GPUs function units (including mixed-precision and tensor core),
 we find out that the way that GPU resources are instantiated
@@ -27,11 +59,11 @@ plays a critical role in the overall system reliability, and that
 faults outside the functional units generate most of the DUEs.
 
 
-## 2. Data used in the paper
 
 
 
-## 3. Citing
+
+## Citing
 
 ```bibtex
 @INPROCEEDINGS{ipdps2021,
