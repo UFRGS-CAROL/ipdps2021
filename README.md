@@ -26,10 +26,10 @@ The data is divided by device.
 ### Final result comparing radiation vs prediction
 
 - Kepler - Tesla K20
-![](figures/prediction_kepler.pdf)
+![](figures/prediction_kepler.svg)
 
 - Volta - Tesla V100
-![](figures/prediction_volta.pdf)
+![](figures/prediction_volta.svg)
 
 
 ## Abstract
