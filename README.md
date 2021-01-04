@@ -10,15 +10,15 @@ data for each device (Kepler and Volta).
 
 ## Data used in the paper
 
-The data is divided by device.
-1. Kepler - Tesla K20
-    - [Profiling](profile_kepler.ipynb)
-    - [Benchmark AVF](avf_kepler.ipynb)
-    - [Beam](beam_kepler.ipynb)
-2. Volta - Tesla V100
-    - [Profiling](profile_volta.ipynb)
-    - [Benchmark AVF](avf_volta.ipynb)
-    - [Beam](beam_volta.ipynb)
+The data is divided in the following categories:
+
+- [Kepler Tesla K20 Profiling](profile_kepler.ipynb)
+- [Kepler AVF](avf_kepler.ipynb)
+
+- [Volta - Tesla V100 Profiling](profile_volta.ipynb)
+- [Volta AVF](avf_volta.ipynb)
+
+- [Normalized Beam FIT](beam_kepler.ipynb)
 
 ### Final result comparing radiation vs prediction
 
