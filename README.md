@@ -29,11 +29,15 @@ The data is divided in the following categories:
 
 ### Final result comparing radiation vs prediction
 
-The following graphs are calculated using the equation:
+To obtain the prediction explained in the paper, you have to use the 
+data presented above. The details of the methodologies used in 
+the paper are better explained in the manuscript. 
+Then after the prediction using the proposed
+methodology the following graphs are calculated using the equation:
 
 ![](figures/ratio.svg)
 
-
+As in the paper, the final result is:
 - Kepler - Tesla K20
 ![](figures/prediction_kepler.svg)
 
