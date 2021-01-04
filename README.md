@@ -12,10 +12,10 @@ data for each device (Kepler and Volta).
 
 The data is divided in the following categories:
 
-- [Kepler Tesla K20 Profiling](profile_kepler.ipynb)
+- [Kepler Profiling](profile_kepler.ipynb)
 - [Kepler AVF](avf_kepler.ipynb)
 
-- [Volta - Tesla V100 Profiling](profile_volta.ipynb)
+- [Volta Profiling](profile_volta.ipynb)
 - [Volta AVF](avf_volta.ipynb)
 
 - [Normalized Beam FIT](beam_kepler.ipynb)
