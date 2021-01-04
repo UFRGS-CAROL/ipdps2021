@@ -1,5 +1,14 @@
 # Unveiling GPU Vulnerabilities: Comparing and Combining Beam, Fault Simulation, and Profiling
 
+## Authors
+
+- Fernando Fernandes dos Santos - Universidade Federal do Rio Grande do Sul (UFRGS)
+    - e-mail: ffsantos@inf.ufrgs.br or fernandofernandesantos@gmail.com
+- Siva Kumar Sastry Hari -  NVIDIA Corporation
+- Pedro Martins Basso - UFRGS
+- Luigi Carro - UFRGS
+- Paolo Rech - Politecnico di Torino   
+
 ## About the data
 This repository contains almost all the data presented in the paper. 
 In the following section, there is a link to each Jupyter
@@ -18,7 +27,7 @@ The data is divided in the following categories:
 - [Volta Profiling](profile_volta.ipynb)
 - [Volta AVF](avf_volta.ipynb)
 
-- [Normalized Beam FIT](beam_kepler.ipynb)
+- [Normalized Beam FIT](normalized_fit.ipynb)
 
 ### Final result comparing radiation vs prediction
 
