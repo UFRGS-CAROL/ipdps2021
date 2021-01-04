@@ -12,15 +12,13 @@ data for each device (Kepler and Volta).
 
 The data is divided by device.
 1. Kepler - Tesla K20
-    - [Profiler](profile_kepler.ipynb)
-    - Benchmark fault injection:
-    - Profiling:
-    - Prediction:
+    - [Profiling](profile_kepler.ipynb)
+    - [Benchmark AVF](avf_kepler.ipynb)
+    - [Beam](beam_kepler.ipynb)
 2. Volta - Tesla V100
-    - Profiler data:
-    - Benchmark fault injection:
-    - Profiling:
-    - Prediction:
+    - [Profiling](profile_volta.ipynb)
+    - [Benchmark AVF](avf_volta.ipynb)
+    - [Beam](beam_volta.ipynb)
 
 ### Final result comparing radiation vs prediction
 
