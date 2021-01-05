@@ -38,12 +38,26 @@ methodology the following graphs are calculated using the equation:
 ![](figures/ratio.svg)
 
 As in the paper, the final result is:
-- Kepler - Tesla K20
+- Kepler - Tesla K20. Figure 6.a in the paper.
 ![](figures/prediction_kepler.svg)
 
-- Volta - Tesla V100
+- Volta - Tesla V100. Figure 6.b in the paper.
 ![](figures/prediction_volta.svg)
 
+## Used frameworks and codes
+
+We used in this paper the following frameworks:
+
+- [NVIDIA SASSIFI](https://github.com/NVlabs/sassifi)
+- [NVIDIA NvbitFI](https://github.com/NVlabs/nvbitfi)
+- [NVPROF for profiling on Kepler](https://docs.nvidia.com/cuda/profiler-users-guide/index.html)
+- [NV-NSIGHT-CLI for profiling on Volta](https://docs.nvidia.com/nsight-compute/NsightComputeCli/index.html)
+
+The codes used in this paper are from:
+
+- [Rodinia benchmark suite](https://lava.cs.virginia.edu/Rodinia/download.htm)
+- [CUDA Samples](https://github.com/NVIDIA/cuda-samples)
+- [Darknet](https://github.com/pjreddie/darknet)
 
 ## Abstract
 Graphics Processing Units (GPUs) have moved from
