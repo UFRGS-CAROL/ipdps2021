@@ -1,4 +1,4 @@
-# Unveiling GPU Vulnerabilities: Comparing and Combining Beam, Fault Simulation, and Profiling
+# Demystifying GPU Reliability: Comparing and Combining Beam, Fault Simulation, and Profiling
 
 ## Authors
 
