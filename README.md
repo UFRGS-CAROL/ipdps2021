@@ -38,7 +38,7 @@ methodology the following graphs are calculated using the equation:
 ![](figures/ratio.svg)
 
 As in the paper, the final result is:
-- Kepler - Tesla K20. Figure 6.a in the paper.
+- Kepler - Tesla K40. Figure 6.a in the paper.
 ![](figures/prediction_kepler.svg)
 
 - Volta - Tesla V100. Figure 6.b in the paper.
